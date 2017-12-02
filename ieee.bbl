@@ -1,0 +1,1091 @@
+\begin{thebibliography}{168}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Abbeel and Schulman(2016)]{abbeel2016deep}
+Pieter Abbeel and John Schulman.
+\newblock {Deep Reinforcement Learning through Policy Optimization}, 2016.
+\newblock Tutorial at NIPS 2016.
+
+\bibitem[Arulkumaran et~al.(2016)Arulkumaran, Dilokthanakul, Shanahan, and
+  Bharath]{arulkumaran2016classifying}
+Kai Arulkumaran, Nat Dilokthanakul, Murray Shanahan, and Anil~Anthony Bharath.
+\newblock {Classifying Options for Deep Reinforcement Learning}.
+\newblock In \emph{IJCAI Workshop on Deep Reinforcement Learning: Frontiers and
+  Challenges}, 2016.
+
+\bibitem[Bacon et~al.(2017)Bacon, Harb, and Precup]{bacon2017option}
+Pierre-Luc Bacon, Jean Harb, and Doina Precup.
+\newblock {The Option-Critic Architecture}.
+\newblock In \emph{AAAI}, 2017.
+
+\bibitem[Bagnell and Schneider(2003)]{bagnell2003covariant}
+J~Andrew Bagnell and Jeff Schneider.
+\newblock {Covariant Policy Search}.
+\newblock In \emph{IJCAI}, 2003.
+
+\bibitem[Bahdanau et~al.(2017)Bahdanau, Brakel, Xu, Goyal, Lowe, Pineau,
+  Courville, and Bengio]{bahdanau2017actor}
+Dzmitry Bahdanau, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan Lowe, Joelle
+  Pineau, Aaron Courville, and Yoshua Bengio.
+\newblock {An Actor-Critic Algorithm for Sequence Prediction}.
+\newblock In \emph{ICLR}, 2017.
+
+\bibitem[Baird~III(1993)]{baird1993advantage}
+Leemon~C Baird~III.
+\newblock {Advantage Updating}.
+\newblock Technical report, DTIC, 1993.
+
+\bibitem[Baram et~al.(2016)Baram, Anschel, and Mannor]{baram2016model}
+Nir Baram, Oron Anschel, and Shie Mannor.
+\newblock {Model-Based Adversarial Imitation Learning}.
+\newblock In \emph{NIPS Workshop on Deep Reinforcement Learning}, 2016.
+
+\bibitem[Barto et~al.(1983)Barto, Sutton, and Anderson]{barto1983neuronlike}
+Andrew~G Barto, Richard~S Sutton, and Charles~W Anderson.
+\newblock {Neuronlike Adaptive Elements That Can Solve Difficult Learning
+  Control Problems}.
+\newblock \emph{IEEE Trans. on Systems, Man, and Cybernetics}, \penalty0
+  (5):\penalty0 834--846, 1983.
+
+\bibitem[Beattie et~al.(2016)Beattie, Leibo, Teplyashin, Ward, Wainwright,
+  K{\"u}ttler, Lefrancq, Green, Vald{\'e}s, Sadik, et~al.]{beattie2016deepmind}
+Charles Beattie, Joel~Z Leibo, Denis Teplyashin, Tom Ward, Marcus Wainwright,
+  Heinrich K{\"u}ttler, Andrew Lefrancq, Simon Green, V{\'\i}ctor Vald{\'e}s,
+  Amir Sadik, et~al.
+\newblock {DeepMind Lab}.
+\newblock \emph{arXiv:1612.03801}, 2016.
+
+\bibitem[Bellemare et~al.(2015)Bellemare, Naddaf, Veness, and
+  Bowling]{bellemare2015arcade}
+Marc~G Bellemare, Yavar Naddaf, Joel Veness, and Michael Bowling.
+\newblock {The Arcade Learning Environment: An Evaluation Platform for General
+  Agents}.
+\newblock In \emph{IJCAI}, 2015.
+
+\bibitem[Bellemare et~al.(2016)Bellemare, Srinivasan, Ostrovski, Schaul,
+  Saxton, and Munos]{bellemare2016unifying}
+Marc~G Bellemare, Sriram Srinivasan, Georg Ostrovski, Tom Schaul, David Saxton,
+  and R{\'e}mi Munos.
+\newblock {Unifying Count-Based Exploration and Intrinsic Motivation}.
+\newblock In \emph{NIPS}, 2016.
+
+\bibitem[Bellemare et~al.(2017)Bellemare, Dabney, and
+  Munos]{bellemare2017distributional}
+Marc~G Bellemare, Will Dabney, and R{\'e}mi Munos.
+\newblock {A Distributional Perspective on Reinforcement Learning}.
+\newblock In \emph{ICML}, 2017.
+
+\bibitem[Bellman(1952)]{bellman1952theory}
+Richard Bellman.
+\newblock {On the Theory of Dynamic Programming}.
+\newblock \emph{PNAS}, 38\penalty0 (8):\penalty0 716--719, 1952.
+
+\bibitem[Bengio et~al.(2009)Bengio, Louradour, Collobert, and
+  Weston]{bengio2009curriculum}
+Yoshua Bengio, J{\'e}r{\^o}me Louradour, Ronan Collobert, and Jason Weston.
+\newblock {Curriculum Learning}.
+\newblock In \emph{ICML}, 2009.
+
+\bibitem[Bengio et~al.(2013)Bengio, Courville, and
+  Vincent]{bengio2013representation}
+Yoshua Bengio, Aaron Courville, and Pascal Vincent.
+\newblock {Representation Learning: A Review and New Perspectives}.
+\newblock \emph{IEEE Trans. on Pattern Analysis and Machine Intelligence},
+  35\penalty0 (8):\penalty0 1798--1828, 2013.
+
+\bibitem[Bertsekas(2005)]{bertsekas2005dynamic}
+Dimitri~P Bertsekas.
+\newblock {Dynamic Programming and Suboptimal Control: A Survey from ADP to
+  MPC}.
+\newblock \emph{European Journal of Control}, 11\penalty0 (4-5):\penalty0
+  310--334, 2005.
+
+\bibitem[Brockman et~al.(2016)Brockman, Cheung, Pettersson, Schneider,
+  Schulman, Tang, and Zaremba]{brockman2016openai}
+Greg Brockman, Vicki Cheung, Ludwig Pettersson, Jonas Schneider, John Schulman,
+  Jie Tang, and Wojciech Zaremba.
+\newblock {OpenAI Gym}.
+\newblock \emph{arXiv:1606.01540}, 2016.
+
+\bibitem[Busoniu et~al.(2008)Busoniu, Babuska, and
+  De~Schutter]{busoniu2008comprehensive}
+Lucian Busoniu, Robert Babuska, and Bart De~Schutter.
+\newblock {A Comprehensive survey of Multiagent Reinforcement Learning}.
+\newblock \emph{IEEE Trans. on Systems, Man, And Cybernetics}, 2008.
+
+\bibitem[Campbell et~al.(2002)Campbell, Hoane, and Hsu]{campbell2002deep}
+Murray Campbell, A~Joseph Hoane, and Feng-hsiung Hsu.
+\newblock {Deep Blue}.
+\newblock \emph{Artificial Intelligence}, 134\penalty0 (1-2):\penalty0 57--83,
+  2002.
+
+\bibitem[Caruana(1997)]{caruana1997multitask}
+Rich Caruana.
+\newblock {Multitask Learning}.
+\newblock \emph{Machine Learning}, 28\penalty0 (1):\penalty0 41--75, 1997.
+
+\bibitem[Chiappa et~al.(2017)Chiappa, Racaniere, Wierstra, and
+  Mohamed]{chiappa2017recurrent}
+Silvia Chiappa, S{\'e}bastien Racaniere, Daan Wierstra, and Shakir Mohamed.
+\newblock {Recurrent Environment Simulators}.
+\newblock In \emph{ICLR}, 2017.
+
+\bibitem[Christiano et~al.(2016)Christiano, Shah, Mordatch, Schneider,
+  Blackwell, Tobin, Abbeel, and Zaremba]{christiano2016transfer}
+Paul Christiano, Zain Shah, Igor Mordatch, Jonas Schneider, Trevor Blackwell,
+  Joshua Tobin, Pieter Abbeel, and Wojciech Zaremba.
+\newblock {Transfer from Simulation to Real World through Learning Deep Inverse
+  Dynamics Model}.
+\newblock \emph{arXiv:1610.03518}, 2016.
+
+\bibitem[Cuccu et~al.(2011)Cuccu, Luciw, Schmidhuber, and
+  Gomez]{cuccu2011intrinsically}
+Giuseppe Cuccu, Matthew Luciw, J{\"u}rgen Schmidhuber, and Faustino Gomez.
+\newblock {Intrinsically Motivated Neuroevolution for Vision-Based
+  Reinforcement Learning}.
+\newblock In \emph{ICDL}, volume~2, 2011.
+
+\bibitem[Dayan(1993)]{dayan1993improving}
+Peter Dayan.
+\newblock {Improving Generalization for Temporal Difference Learning: The
+  Successor Representation}.
+\newblock \emph{Neural Computation}, 5\penalty0 (4):\penalty0 613--624, 1993.
+
+\bibitem[Dean et~al.(2012)Dean, Corrado, Monga, Chen, Devin, Mao, Senior,
+  Tucker, Yang, Le, et~al.]{dean2012large}
+Jeffrey Dean, Greg Corrado, Rajat Monga, Kai Chen, Matthieu Devin, Mark Mao,
+  Andrew Senior, Paul Tucker, Ke~Yang, Quoc~V Le, et~al.
+\newblock {Large Scale Distributed Deep Networks}.
+\newblock In \emph{NIPS}, 2012.
+
+\bibitem[Deisenroth et~al.(2013)Deisenroth, Neumann, and
+  Peters]{deisenroth2013survey}
+Marc~P Deisenroth, Gerhard Neumann, and Jan Peters.
+\newblock {A Survey on Policy Search for Robotics}.
+\newblock \emph{Foundations and Trends{\textregistered} in Robotics},
+  2\penalty0 (1--2), 2013.
+
+\bibitem[Denil et~al.(2017)Denil, Agrawal, Kulkarni, Erez, Battaglia, and
+  de~Freitas]{denil2017learning}
+Misha Denil, Pulkit Agrawal, Tejas~D Kulkarni, Tom Erez, Peter Battaglia, and
+  Nando de~Freitas.
+\newblock {Learning to Perform Physics Experiments via Deep Reinforcement
+  Learning}.
+\newblock In \emph{ICLR}, 2017.
+
+\bibitem[Duan et~al.(2016{\natexlab{a}})Duan, Chen, Houthooft, Schulman, and
+  Abbeel]{duan2016benchmarking}
+Yan Duan, Xi~Chen, Rein Houthooft, John Schulman, and Pieter Abbeel.
+\newblock {Benchmarking Deep Reinforcement Learning for Continuous Control}.
+\newblock In \emph{ICML}, 2016{\natexlab{a}}.
+
+\bibitem[Duan et~al.(2016{\natexlab{b}})Duan, Schulman, Chen, Bartlett,
+  Sutskever, and Abbeel]{duan2016rl}
+Yan Duan, John Schulman, Xi~Chen, Peter~L Bartlett, Ilya Sutskever, and Pieter
+  Abbeel.
+\newblock {RL$^2$: Fast Reinforcement Learning via Slow Reinforcement
+  Learning}.
+\newblock In \emph{NIPS Workshop on Deep Reinforcement Learning},
+  2016{\natexlab{b}}.
+
+\bibitem[Dulac-Arnold et~al.(2015)Dulac-Arnold, Evans, van Hasselt, Sunehag,
+  Lillicrap, Hunt, Mann, Weber, Degris, and Coppin]{dulac2015deep}
+Gabriel Dulac-Arnold, Richard Evans, Hado van Hasselt, Peter Sunehag, Timothy
+  Lillicrap, Jonathan Hunt, Timothy Mann, Theophane Weber, Thomas Degris, and
+  Ben Coppin.
+\newblock {Deep Reinforcement Learning in Large Discrete Action Spaces}.
+\newblock \emph{arXiv:1512.07679}, 2015.
+
+\bibitem[Ferrucci et~al.(2010)Ferrucci, Brown, Chu-Carroll, Fan, Gondek,
+  Kalyanpur, Lally, Murdock, Nyberg, Prager, et~al.]{ferrucci2010building}
+David Ferrucci, Eric Brown, Jennifer Chu-Carroll, James Fan, David Gondek,
+  Aditya~A Kalyanpur, Adam Lally, J~William Murdock, Eric Nyberg, John Prager,
+  et~al.
+\newblock {Building Watson: An Overview of the DeepQA Project}.
+\newblock \emph{AI Magazine}, 31\penalty0 (3):\penalty0 59--79, 2010.
+
+\bibitem[Finn et~al.(2016)Finn, Tan, Duan, Darrell, Levine, and
+  Abbeel]{finn2016deep}
+Chelsea Finn, Xin~Yu Tan, Yan Duan, Trevor Darrell, Sergey Levine, and Pieter
+  Abbeel.
+\newblock {Deep Spatial Autoencoders for Visuomotor Learning}.
+\newblock In \emph{ICRA}, 2016.
+
+\bibitem[Foerster et~al.(2016)Foerster, Assael, de~Freitas, and
+  Whiteson]{foerster2016learning}
+Jakob Foerster, Yannis~M Assael, Nando de~Freitas, and Shimon Whiteson.
+\newblock {Learning to Communicate with Deep Multi-Agent Reinforcement
+  Learning}.
+\newblock In \emph{NIPS}, 2016.
+
+\bibitem[Fu(2006)]{fu2006gradient}
+Michael~C Fu.
+\newblock {Gradient Estimation}.
+\newblock \emph{Handbooks in Operations Research and Management Science},
+  13:\penalty0 575--616, 2006.
+
+\bibitem[Garnelo et~al.(2016)Garnelo, Arulkumaran, and
+  Shanahan]{garnelo2016towards}
+Marta Garnelo, Kai Arulkumaran, and Murray Shanahan.
+\newblock {Towards Deep Symbolic Reinforcement Learning}.
+\newblock In \emph{NIPS Workshop on Deep Reinforcement Learning}, 2016.
+
+\bibitem[Glynn(1990)]{glynn1990likelihood}
+Peter~W Glynn.
+\newblock {Likelihood Ratio Gradient Estimation for Stochastic Systems}.
+\newblock \emph{Communications of the ACM}, 33\penalty0 (10):\penalty0 75--84,
+  1990.
+
+\bibitem[Gomez and Schmidhuber(2005)]{gomez2005evolving}
+Faustino Gomez and J{\"u}rgen Schmidhuber.
+\newblock {Evolving Modular Fast-Weight Networks for Control}.
+\newblock In \emph{ICANN}, 2005.
+
+\bibitem[Goodfellow et~al.(2014)Goodfellow, Pouget-Abadie, Mirza, Xu,
+  Warde-Farley, Ozair, Courville, and Bengio]{goodfellow2014generative}
+Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,
+  Sherjil Ozair, Aaron Courville, and Yoshua Bengio.
+\newblock {Generative Adversarial Nets}.
+\newblock In \emph{NIPS}, 2014.
+
+\bibitem[Gruslys et~al.(2017)Gruslys, Azar, Bellemare, and
+  Munos]{gruslys2017reactor}
+Audrunas Gruslys, Mohammad~Gheshlaghi Azar, Marc~G Bellemare, and R{\'e}mi
+  Munos.
+\newblock {The Reactor: A Sample-Efficient Actor-Critic Architecture}.
+\newblock \emph{arXiv:1704.04651}, 2017.
+
+\bibitem[Gu et~al.(2016)Gu, Lillicrap, Sutskever, and Levine]{gu2016continuous}
+Shixiang Gu, Timothy Lillicrap, Ilya Sutskever, and Sergey Levine.
+\newblock {Continuous Deep Q-Learning with Model-Based Acceleration}.
+\newblock In \emph{ICLR}, 2016.
+
+\bibitem[Gu et~al.(2017{\natexlab{a}})Gu, Lillicrap, Ghahramani, Turner, and
+  Levine]{gu2017q}
+Shixiang Gu, Timothy Lillicrap, Zoubin Ghahramani, Richard~E Turner, and Sergey
+  Levine.
+\newblock {Q-Prop: Sample-Efficient Policy Gradient with an Off-Policy Critic}.
+\newblock In \emph{ICLR}, 2017{\natexlab{a}}.
+
+\bibitem[Gu et~al.(2017{\natexlab{b}})Gu, Lillicrap, Ghahramani, Turner,
+  Sch{\"o}lkopf, and Levine]{gu2017interpolated}
+Shixiang Gu, Timothy Lillicrap, Zoubin Ghahramani, Richard~E Turner, Bernhard
+  Sch{\"o}lkopf, and Sergey Levine.
+\newblock {Interpolated Policy Gradient: Merging On-Policy and Off-Policy
+  Gradient Estimation for Deep Reinforcement Learning}.
+\newblock In \emph{NIPS}, 2017{\natexlab{b}}.
+
+\bibitem[Harmon and Baird~III(1996)]{harmon1996multi}
+Mance~E Harmon and Leemon~C Baird~III.
+\newblock {Multi-Player Residual Advantage Learning with General Function
+  Approximation}.
+\newblock Technical report, DTIC, 1996.
+
+\bibitem[Hausknecht and Stone(2015)]{hausknecht2015deep}
+Matthew Hausknecht and Peter Stone.
+\newblock {Deep Recurrent Q-Learning for Partially Observable MDPs}.
+\newblock In \emph{AAAI Fall Symposium Series}, 2015.
+
+\bibitem[Heess et~al.(2015{\natexlab{a}})Heess, Hunt, Lillicrap, and
+  Silver]{heess2015memory}
+Nicolas Heess, Jonathan~J Hunt, Timothy~P Lillicrap, and David Silver.
+\newblock {Memory-Based Control with Recurrent Neural Networks}.
+\newblock In \emph{NIPS Workshop on Deep Reinforcement Learning},
+  2015{\natexlab{a}}.
+
+\bibitem[Heess et~al.(2015{\natexlab{b}})Heess, Wayne, Silver, Lillicrap, Erez,
+  and Tassa]{heess2015learning}
+Nicolas Heess, Gregory Wayne, David Silver, Tim Lillicrap, Tom Erez, and Yuval
+  Tassa.
+\newblock {Learning Continuous Control Policies by Stochastic Value Gradients}.
+\newblock In \emph{NIPS}, 2015{\natexlab{b}}.
+
+\bibitem[Heess et~al.(2017)Heess, Sriram, Lemmon, Merel, Wayne, Tassa, Erez,
+  Wang, Eslami, Riedmiller, et~al.]{heess2017emergence}
+Nicolas Heess, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval
+  Tassa, Tom Erez, Ziyu Wang, Ali Eslami, Martin Riedmiller, et~al.
+\newblock {Emergence of Locomotion Behaviours in Rich Environments}.
+\newblock \emph{arXiv:1707.02286}, 2017.
+
+\bibitem[Heinrich and Silver(2016)]{heinrich2016deep}
+Johannes Heinrich and David Silver.
+\newblock {Deep Reinforcement Learning from Self-Play in Imperfect-Information
+  Games}.
+\newblock 2016.
+
+\bibitem[Hester et~al.(2017)Hester, Vecerik, Pietquin, Lanctot, Schaul, Piot,
+  Sendonaris, Dulac-Arnold, Osband, Agapiou, et~al.]{hester2017learning}
+Todd Hester, Matej Vecerik, Olivier Pietquin, Marc Lanctot, Tom Schaul, Bilal
+  Piot, Andrew Sendonaris, Gabriel Dulac-Arnold, Ian Osband, John Agapiou,
+  et~al.
+\newblock {Learning from Demonstrations for Real World Reinforcement Learning}.
+\newblock \emph{arXiv:1704.03732}, 2017.
+
+\bibitem[Hinton et~al.(2014)Hinton, Vinyals, and Dean]{hinton2014distilling}
+Geoffrey Hinton, Oriol Vinyals, and Jeff Dean.
+\newblock {Distilling the Knowledge in a Neural Network}.
+\newblock 2014.
+
+\bibitem[Ho and Ermon(2016)]{ho2016generative}
+Jonathan Ho and Stefano Ermon.
+\newblock {Generative Adversarial Imitation Learning}.
+\newblock In \emph{NIPS}, 2016.
+
+\bibitem[Houthooft et~al.(2016)Houthooft, Chen, Duan, Schulman, De~Turck, and
+  Abbeel]{houthooft2016vime}
+Rein Houthooft, Xi~Chen, Yan Duan, John Schulman, Filip De~Turck, and Pieter
+  Abbeel.
+\newblock {VIME: Variational Information Maximizing Exploration}.
+\newblock In \emph{NIPS}, 2016.
+
+\bibitem[Hussein et~al.(2016)Hussein, Gaber, and Elyan]{hussein2016deep}
+Ahmed Hussein, Mohamed~Medhat Gaber, and Eyad Elyan.
+\newblock {Deep Active Learning for Autonomous Navigation}.
+\newblock In \emph{EANN}, 2016.
+
+\bibitem[Jaderberg et~al.(2017)Jaderberg, Mnih, Czarnecki, Schaul, Leibo,
+  Silver, and Kavukcuoglu]{jaderberg2017reinforcement}
+Max Jaderberg, Volodymyr Mnih, Wojciech~Marian Czarnecki, Tom Schaul, Joel~Z
+  Leibo, David Silver, and Koray Kavukcuoglu.
+\newblock {Reinforcement Learning with Unsupervised Auxiliary Tasks}.
+\newblock In \emph{ICLR}, 2017.
+
+\bibitem[Johnson et~al.(2016)Johnson, Hofmann, Hutton, and
+  Bignell]{johnson2016malmo}
+Matthew Johnson, Katja Hofmann, Tim Hutton, and David Bignell.
+\newblock {The Malmo Platform for Artificial Intelligence Experimentation}.
+\newblock In \emph{IJCAI}, 2016.
+
+\bibitem[Kaelbling et~al.(1998)Kaelbling, Littman, and
+  Cassandra]{kaelbling1998planning}
+Leslie~P Kaelbling, Michael~L Littman, and Anthony~R Cassandra.
+\newblock {Planning and Acting in Partially Observable Stochastic Domains}.
+\newblock \emph{Artificial Intelligence}, 101\penalty0 (1):\penalty0 99--134,
+  1998.
+
+\bibitem[Kakade(2002)]{kakade2002natural}
+Sham~M Kakade.
+\newblock {A Natural Policy Gradient}.
+\newblock In \emph{NIPS}, 2002.
+
+\bibitem[Kansky et~al.(2017)Kansky, Silver, M{\'e}ly, Eldawy,
+  L{\'a}zaro-Gredilla, Lou, Dorfman, Sidor, Phoenix, and
+  George]{kansky2017schema}
+Ken Kansky, Tom Silver, David~A M{\'e}ly, Mohamed Eldawy, Miguel
+  L{\'a}zaro-Gredilla, Xinghua Lou, Nimrod Dorfman, Szymon Sidor, Scott
+  Phoenix, and Dileep George.
+\newblock {Schema Networks: Zero-Shot Transfer with a Generative Causal Model
+  of Intuitive Physics}.
+\newblock In \emph{ICML}, 2017.
+
+\bibitem[Kappen(2005)]{kappen2005path}
+Hilbert~J Kappen.
+\newblock {Path Integrals and Symmetry Breaking for Optimal Control Theory}.
+\newblock \emph{JSTAT}, 2005\penalty0 (11):\penalty0 P11011, 2005.
+
+\bibitem[Kempka et~al.(2016)Kempka, Wydmuch, Runc, Toczek, and
+  Ja{\'s}kowski]{kempka2016vizdoom}
+Micha{\l} Kempka, Marek Wydmuch, Grzegorz Runc, Jakub Toczek, and Wojciech
+  Ja{\'s}kowski.
+\newblock {ViZDoom: A Doom-Based AI Research Platform for Visual Reinforcement
+  Learning}.
+\newblock In \emph{CIG}, 2016.
+
+\bibitem[Kingma and Welling(2014)]{kingma2014auto}
+Diederik~P Kingma and Max Welling.
+\newblock {Auto-Encoding Variational Bayes}.
+\newblock In \emph{ICLR}, 2014.
+
+\bibitem[Kohl and Stone(2004)]{kohl2004policy}
+Nate Kohl and Peter Stone.
+\newblock {Policy Gradient Reinforcement Learning for Fast Quadrupedal
+  Locomotion}.
+\newblock In \emph{ICRA}, volume~3, 2004.
+
+\bibitem[Konda and Tsitsiklis(2003)]{konda2003onactor}
+Vijay~R Konda and John~N Tsitsiklis.
+\newblock {On Actor-Critic Algorithms}.
+\newblock \emph{SICON}, 42\penalty0 (4):\penalty0 1143--1166, 2003.
+
+\bibitem[Koutn{\'\i}k et~al.(2013)Koutn{\'\i}k, Cuccu, Schmidhuber, and
+  Gomez]{koutnik2013evolving}
+Jan Koutn{\'\i}k, Giuseppe Cuccu, J{\"u}rgen Schmidhuber, and Faustino Gomez.
+\newblock {Evolving Large-Scale Neural Networks for Vision-Based Reinforcement
+  Learning}.
+\newblock In \emph{GECCO}, 2013.
+
+\bibitem[Kulkarni et~al.(2016{\natexlab{a}})Kulkarni, Narasimhan, Saeedi, and
+  Tenenbaum]{kulkarni2016hierarchical}
+Tejas~D Kulkarni, Karthik Narasimhan, Ardavan Saeedi, and Josh Tenenbaum.
+\newblock {Hierarchical Deep Reinforcement Learning: Integrating Temporal
+  Abstraction and Intrinsic Motivation}.
+\newblock In \emph{NIPS}, 2016{\natexlab{a}}.
+
+\bibitem[Kulkarni et~al.(2016{\natexlab{b}})Kulkarni, Saeedi, Gautam, and
+  Gershman]{kulkarni2016deep}
+Tejas~D Kulkarni, Ardavan Saeedi, Simanta Gautam, and Samuel~J Gershman.
+\newblock {Deep Successor Reinforcement Learning}.
+\newblock In \emph{NIPS Workshop on Deep Reinforcement Learning},
+  2016{\natexlab{b}}.
+
+\bibitem[Lai and Robbins(1985)]{lai1985asymptotically}
+Tze~Leung Lai and Herbert Robbins.
+\newblock {Asymptotically Efficient Adaptive Allocation Rules}.
+\newblock \emph{Advances in Applied Mathematics}, 6\penalty0 (1):\penalty0
+  4--22, 1985.
+
+\bibitem[Lake et~al.(2016)Lake, Ullman, Tenenbaum, and
+  Gershman]{lake2016building}
+Brenden~M Lake, Tomer~D Ullman, Joshua~B Tenenbaum, and Samuel~J Gershman.
+\newblock {Building Machines That Learn and Think Like People}.
+\newblock \emph{The Behavioral and Brain Sciences}, page~1, 2016.
+
+\bibitem[Lange et~al.(2012)Lange, Riedmiller, and
+  Voigtlander]{lange2012autonomous}
+Sascha Lange, Martin Riedmiller, and Arne Voigtlander.
+\newblock {Autonomous Reinforcement Learning on Raw Visual Input Data in a Real
+  World Application}.
+\newblock In \emph{IJCNN}, 2012.
+
+\bibitem[LeCun et~al.(2015)LeCun, Bengio, and Hinton]{lecun2015deep}
+Yann LeCun, Yoshua Bengio, and Geoffrey Hinton.
+\newblock {Deep Learning}.
+\newblock \emph{Nature}, 521\penalty0 (7553):\penalty0 436--444, 2015.
+
+\bibitem[Leibo et~al.(2017)Leibo, Zambaldi, Lanctot, Marecki, and
+  Graepel]{leibo2017multi}
+Joel~Z Leibo, Vinicius Zambaldi, Marc Lanctot, Janusz Marecki, and Thore
+  Graepel.
+\newblock {Multi-Agent Reinforcement Learning in Sequential Social Dilemmas}.
+\newblock In \emph{AAMAS}, 2017.
+
+\bibitem[Levine and Abbeel(2014)]{levine2014learning}
+Sergey Levine and Pieter Abbeel.
+\newblock {Learning Neural Network Policies with Guided Policy Search under
+  Unknown Dynamics}.
+\newblock In \emph{NIPS}, 2014.
+
+\bibitem[Levine and Koltun(2013)]{levine2013guided}
+Sergey Levine and Vladlen Koltun.
+\newblock {Guided Policy Search}.
+\newblock In \emph{ICLR}, 2013.
+
+\bibitem[Levine et~al.(2016{\natexlab{a}})Levine, Finn, Darrell, and
+  Abbeel]{levine2016end}
+Sergey Levine, Chelsea Finn, Trevor Darrell, and Pieter Abbeel.
+\newblock {End-to-End Training of Deep Visuomotor Policies}.
+\newblock \emph{JMLR}, 17\penalty0 (39):\penalty0 1--40, 2016{\natexlab{a}}.
+
+\bibitem[Levine et~al.(2016{\natexlab{b}})Levine, Pastor, Krizhevsky, and
+  Quillen]{levine2016learning}
+Sergey Levine, Peter Pastor, Alex Krizhevsky, and Deirdre Quillen.
+\newblock {Learning Hand-Eye Coordination for Robotic Grasping with Deep
+  Learning and Large-Scale Data Collection}.
+\newblock In \emph{ISER}, 2016{\natexlab{b}}.
+
+\bibitem[Li and Malik(2017)]{li2017learning}
+Ke~Li and Jitendra Malik.
+\newblock {Learning to Optimize}.
+\newblock 2017.
+
+\bibitem[Li et~al.(2015)Li, Li, Gao, He, Chen, Deng, and He]{li2015recurrent}
+Xiujun Li, Lihong Li, Jianfeng Gao, Xiaodong He, Jianshu Chen, Li~Deng, and
+  Ji~He.
+\newblock {Recurrent Reinforcement Learning: A Hybrid Approach}.
+\newblock \emph{arXiv:1509.03044}, 2015.
+
+\bibitem[Li(2017)]{li2017deep}
+Yuxi Li.
+\newblock {Deep Reinforcement Learning: An Overview}.
+\newblock \emph{arXiv:1701.07274}, 2017.
+
+\bibitem[Lillicrap et~al.(2016)Lillicrap, Hunt, Pritzel, Heess, Erez, Tassa,
+  Silver, and Wierstra]{lillicrap2016continuous}
+Timothy~P Lillicrap, Jonathan~J Hunt, Alexander Pritzel, Nicolas Heess, Tom
+  Erez, Yuval Tassa, David Silver, and Daan Wierstra.
+\newblock {Continuous Control with Deep Reinforcement Learning}.
+\newblock In \emph{ICLR}, 2016.
+
+\bibitem[Lin(1992)]{lin1992self}
+Long-Ji Lin.
+\newblock {Self-Improving Reactive Agents Based on Reinforcement Learning,
+  Planning and Teaching}.
+\newblock \emph{Machine Learning}, 8\penalty0 (3--4):\penalty0 293--321, 1992.
+
+\bibitem[Metz et~al.(2017)Metz, Ibarz, Jaitly, and Davidson]{metz2017discrete}
+Luke Metz, Julian Ibarz, Navdeep Jaitly, and James Davidson.
+\newblock {Discrete Sequential Prediction of Continuous Actions for Deep RL}.
+\newblock \emph{arXiv:1705.05035}, 2017.
+
+\bibitem[Mirowski et~al.(2017)Mirowski, Pascanu, Viola, Soyer, Ballard, Banino,
+  Denil, Goroshin, Sifre, Kavukcuoglu, et~al.]{mirowski2017learning}
+Piotr Mirowski, Razvan Pascanu, Fabio Viola, Hubert Soyer, Andy Ballard, Andrea
+  Banino, Misha Denil, Ross Goroshin, Laurent Sifre, Koray Kavukcuoglu, et~al.
+\newblock {Learning to Navigate in Complex Environments}.
+\newblock In \emph{ICLR}, 2017.
+
+\bibitem[Mnih et~al.(2014)Mnih, Heess, Graves, and
+  Kavukcuoglu]{mnih2014recurrent}
+Volodymyr Mnih, Nicolas Heess, Alex Graves, and Koray Kavukcuoglu.
+\newblock {Recurrent Models of Visual Attention}.
+\newblock In \emph{NIPS}, 2014.
+
+\bibitem[Mnih et~al.(2015)Mnih, Kavukcuoglu, Silver, Rusu, Veness, Bellemare,
+  Graves, Riedmiller, Fidjeland, Ostrovski, et~al.]{mnih2015human}
+Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei~A Rusu, Joel Veness,
+  Marc~G Bellemare, Alex Graves, Martin Riedmiller, Andreas~K Fidjeland, Georg
+  Ostrovski, et~al.
+\newblock {Human-Level Control through Deep Reinforcement Learning}.
+\newblock \emph{Nature}, 518\penalty0 (7540):\penalty0 529--533, 2015.
+
+\bibitem[Mnih et~al.(2016)Mnih, Badia, Mirza, Graves, Lillicrap, Harley,
+  Silver, and Kavukcuoglu]{mnih2016asynchronous}
+Volodymyr Mnih, Adria~Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy~P
+  Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu.
+\newblock {Asynchronous Methods for Deep Reinforcement Learning}.
+\newblock In \emph{ICLR}, 2016.
+
+\bibitem[Mohamed and Jimenez~Rezende(2015)]{mohamed2015variational}
+Shakir Mohamed and Danilo Jimenez~Rezende.
+\newblock {Variational Information Maximisation for Intrinsically Motivated
+  Reinforcement Learning}.
+\newblock In \emph{NIPS}, 2015.
+
+\bibitem[Moore(1990)]{moore1990efficient}
+Andrew~William Moore.
+\newblock {Efficient Memory-Based Learning for Robot Control}.
+\newblock Technical report, University of Cambridge, Computer Laboratory, 1990.
+
+\bibitem[Munos et~al.(2016)Munos, Stepleton, Harutyunyan, and
+  Bellemare]{munos2016safe}
+R{\'e}mi Munos, Tom Stepleton, Anna Harutyunyan, and Marc~G Bellemare.
+\newblock {Safe and Efficient Off-Policy Reinforcement Learning}.
+\newblock In \emph{NIPS}, 2016.
+
+\bibitem[Nachum et~al.(2017)Nachum, Norouzi, Xu, and
+  Schuurmans]{nachum2017bridging}
+Ofir Nachum, Mohammad Norouzi, Kelvin Xu, and Dale Schuurmans.
+\newblock {Bridging the Gap Between Value and Policy Based Reinforcement
+  Learning}.
+\newblock \emph{arXiv:1702.08892}, 2017.
+
+\bibitem[Nagabandi et~al.(2017)Nagabandi, Kahn, Fearing, and
+  Levine]{nagabandi2017neural}
+Anusha Nagabandi, Gregory Kahn, Ronald~S Fearing, and Sergey Levine.
+\newblock {Neural Network Dynamics for Model-Based Deep Reinforcement Learning
+  with Model-Free Fine-Tuning}.
+\newblock \emph{arXiv:1708.02596}, 2017.
+
+\bibitem[Nair et~al.(2015)Nair, Srinivasan, Blackwell, Alcicek, Fearon,
+  De~Maria, Panneershelvam, Suleyman, Beattie, Petersen,
+  et~al.]{nair2015massively}
+Arun Nair, Praveen Srinivasan, Sam Blackwell, Cagdas Alcicek, Rory Fearon,
+  Alessandro De~Maria, Vedavyas Panneershelvam, Mustafa Suleyman, Charles
+  Beattie, Stig Petersen, et~al.
+\newblock {Massively Parallel Methods for Deep Reinforcement Learning}.
+\newblock In \emph{ICML Workshop on Deep Learning}, 2015.
+
+\bibitem[Ng and Russell(2000)]{ng2000algorithms}
+Andrew~Y Ng and Stuart~J Russell.
+\newblock {Algorithms for Inverse Reinforcement Learning}.
+\newblock In \emph{ICML}, 2000.
+
+\bibitem[Ng et~al.(2006)Ng, Coates, Diel, Ganapathi, Schulte, Tse, Berger, and
+  Liang]{ng2006autonomous}
+Andrew~Y Ng, Adam Coates, Mark Diel, Varun Ganapathi, Jamie Schulte, Ben Tse,
+  Eric Berger, and Eric Liang.
+\newblock {Autonomous Inverted Helicopter Flight via Reinforcement Learning}.
+\newblock \emph{Experimental Robotics}, pages 363--372, 2006.
+
+\bibitem[O'Donoghue et~al.(2017)O'Donoghue, Munos, Kavukcuoglu, and
+  Mnih]{o2017pgq}
+Brendan O'Donoghue, R{\'e}mi Munos, Koray Kavukcuoglu, and Volodymyr Mnih.
+\newblock {PGQ: Combining Policy Gradient and Q-Learning}.
+\newblock In \emph{ICLR}, 2017.
+
+\bibitem[Oh et~al.(2015)Oh, Guo, Lee, Lewis, and Singh]{oh2015action}
+Junhyuk Oh, Xiaoxiao Guo, Honglak Lee, Richard~L Lewis, and Satinder Singh.
+\newblock {Action-Conditional Video Prediction using Deep Networks in Atari
+  Games}.
+\newblock In \emph{NIPS}, 2015.
+
+\bibitem[Oh et~al.(2016)Oh, Chockalingam, Singh, and Lee]{oh2016control}
+Junhyuk Oh, Valliappa Chockalingam, Satinder Singh, and Honglak Lee.
+\newblock {Control of Memory, Active Perception, and Action in Minecraft}.
+\newblock In \emph{ICLR}, 2016.
+
+\bibitem[Osband et~al.(2016)Osband, Blundell, Pritzel, and
+  Van~Roy]{osband2016deep}
+Ian Osband, Charles Blundell, Alexander Pritzel, and Benjamin Van~Roy.
+\newblock {Deep Exploration via Bootstrapped DQN}.
+\newblock In \emph{NIPS}, 2016.
+
+\bibitem[Parisotto and Salakhutdinov(2017)]{parisotto2017neural}
+Emilio Parisotto and Ruslan Salakhutdinov.
+\newblock {Neural Map: Structured Memory for Deep Reinforcement Learning}.
+\newblock \emph{arXiv:1702.08360}, 2017.
+
+\bibitem[Parisotto et~al.(2016)Parisotto, Ba, and
+  Salakhutdinov]{parisotto2016actor}
+Emilio Parisotto, Jimmy~L Ba, and Ruslan Salakhutdinov.
+\newblock {Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning}.
+\newblock In \emph{ICLR}, 2016.
+
+\bibitem[Pascanu et~al.(2017)Pascanu, Li, Vinyals, Heess, Buesing,
+  Racani{\`e}re, Reichert, Weber, Wierstra, and Battaglia]{pascanu2017learning}
+Razvan Pascanu, Yujia Li, Oriol Vinyals, Nicolas Heess, Lars Buesing, Sebastien
+  Racani{\`e}re, David Reichert, Th{\'e}ophane Weber, Daan Wierstra, and Peter
+  Battaglia.
+\newblock {Learning Model-Based Planning from Scratch}.
+\newblock \emph{arXiv:1707.06170}, 2017.
+
+\bibitem[Pathak et~al.(2017)Pathak, Agrawal, Efros, and
+  Darrell]{pathak2017curiosity}
+Deepak Pathak, Pulkit Agrawal, Alexei~A Efros, and Trevor Darrell.
+\newblock {Curiosity-Driven Exploration by Self-supervised Prediction}.
+\newblock In \emph{ICML}, 2017.
+
+\bibitem[Peng et~al.(2017)Peng, Wen, Yang, Yuan, Tang, Long, and
+  Wang]{peng2017multiagent}
+Peng Peng, Ying Wen, Yaodong Yang, Quan Yuan, Zhenkun Tang, Haitao Long, and
+  Jun Wang.
+\newblock {Multiagent Bidirectionally-Coordinated Nets: Emergence of
+  Human-level Coordination in Learning to Play StarCraft Combat Games}.
+\newblock \emph{arXiv:1703.10069}, 2017.
+
+\bibitem[Peters et~al.(2010)Peters, M{\"u}lling, and Altun]{peters2010relative}
+Jan Peters, Katharina M{\"u}lling, and Yasemin Altun.
+\newblock {Relative Entropy Policy Search}.
+\newblock In \emph{AAAI}, 2010.
+
+\bibitem[Pomerleau(1989)]{pomerleau1989alvinn}
+Dean~A Pomerleau.
+\newblock {ALVINN, an Autonomous Land Vehicle in a Neural Network}.
+\newblock Technical report, Carnegie Mellon University, Computer Science
+  Department, 1989.
+
+\bibitem[Pritzel et~al.(2017)Pritzel, Uria, Srinivasan, Puigdom{\`e}nech,
+  Vinyals, Hassabis, Wierstra, and Blundell]{pritzel2017neural}
+Alexander Pritzel, Benigno Uria, Sriram Srinivasan, Adri{\`a} Puigdom{\`e}nech,
+  Oriol Vinyals, Demis Hassabis, Daan Wierstra, and Charles Blundell.
+\newblock {Neural Episodic Control}.
+\newblock In \emph{ICML}, 2017.
+
+\bibitem[Ranzato et~al.(2016)Ranzato, Chopra, Auli, and
+  Zaremba]{ranzato2016sequence}
+Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, and Wojciech Zaremba.
+\newblock {Sequence Level Training with Recurrent Neural Networks}.
+\newblock In \emph{ICLR}, 2016.
+
+\bibitem[Recht et~al.(2011)Recht, Re, Wright, and Niu]{recht2011hogwild}
+Benjamin Recht, Christopher Re, Stephen Wright, and Feng Niu.
+\newblock {Hogwild: A Lock-Free Approach to Parallelizing Stochastic Gradient
+  Descent}.
+\newblock In \emph{NIPS}, 2011.
+
+\bibitem[Rezende et~al.(2014)Rezende, Mohamed, and
+  Wierstra]{rezende2014stochastic}
+Danilo~Jimenez Rezende, Shakir Mohamed, and Daan Wierstra.
+\newblock {Stochastic Backpropagation and Approximate Inference in Deep
+  Generative Models}.
+\newblock In \emph{ICML}, 2014.
+
+\bibitem[Riedmiller(2005)]{riedmiller2005neural}
+Martin Riedmiller.
+\newblock {Neural Fitted Q Iteration---First Experiences with a Data Efficient
+  Neural Reinforcement Learning Method}.
+\newblock In \emph{ECML}, 2005.
+
+\bibitem[Ross et~al.(2011)Ross, Gordon, and Bagnell]{ross2011reduction}
+St{\'e}phane Ross, Geoffrey~J Gordon, and Drew Bagnell.
+\newblock {A Reduction of Imitation Learning and Structured Prediction to
+  No-Regret Online Learning}.
+\newblock In \emph{AISTATS}, 2011.
+
+\bibitem[Rumelhart et~al.(1988)Rumelhart, Hinton, and
+  Williams]{rumelhart1988learning}
+David~E Rumelhart, Geoffrey~E Hinton, and Ronald~J Williams.
+\newblock {Learning Representations by Back-Propagating Errors}.
+\newblock \emph{Cognitive Modeling}, 5\penalty0 (3):\penalty0 1, 1988.
+
+\bibitem[Rummery and Niranjan(1994)]{rummery1994line}
+Gavin~A Rummery and Mahesan Niranjan.
+\newblock \emph{{On-line Q-learning using Connectionist Systems}}.
+\newblock University of Cambridge, Department of Engineering, 1994.
+
+\bibitem[Rusu et~al.(2016{\natexlab{a}})Rusu, Colmenarejo, Gulcehre,
+  Desjardins, Kirkpatrick, Pascanu, Mnih, Kavukcuoglu, and
+  Hadsell]{rusu2016policy}
+Andrei~A Rusu, Sergio~Gomez Colmenarejo, Caglar Gulcehre, Guillaume Desjardins,
+  James Kirkpatrick, Razvan Pascanu, Volodymyr Mnih, Koray Kavukcuoglu, and
+  Raia Hadsell.
+\newblock {Policy Distillation}.
+\newblock In \emph{ICLR}, 2016{\natexlab{a}}.
+
+\bibitem[Rusu et~al.(2016{\natexlab{b}})Rusu, Rabinowitz, Desjardins, Soyer,
+  Kirkpatrick, Kavukcuoglu, Pascanu, and Hadsell]{rusu2016progressive}
+Andrei~A Rusu, Neil~C Rabinowitz, Guillaume Desjardins, Hubert Soyer, James
+  Kirkpatrick, Koray Kavukcuoglu, Razvan Pascanu, and Raia Hadsell.
+\newblock {Progressive Neural Networks}.
+\newblock \emph{arXiv:1606.04671}, 2016{\natexlab{b}}.
+
+\bibitem[Rusu et~al.(2017)Rusu, Vecerik, Roth{\"o}rl, Heess, Pascanu, and
+  Hadsell]{rusu2017sim}
+Andrei~A Rusu, Matej Vecerik, Thomas Roth{\"o}rl, Nicolas Heess, Razvan
+  Pascanu, and Raia Hadsell.
+\newblock {Sim-to-Real Robot Learning from Pixels with Progressive Nets}.
+\newblock In \emph{CoRL}, 2017.
+
+\bibitem[Salimans et~al.(2017)Salimans, Ho, Chen, and
+  Sutskever]{salimans2017evolution}
+Tim Salimans, Jonathan Ho, Xi~Chen, and Ilya Sutskever.
+\newblock {Evolution Strategies as a Scalable Alternative to Reinforcement
+  Learning}.
+\newblock \emph{arXiv:1703.03864}, 2017.
+
+\bibitem[Schaul et~al.(2015)Schaul, Horgan, Gregor, and
+  Silver]{schaul2015universal}
+Tom Schaul, Daniel Horgan, Karol Gregor, and David Silver.
+\newblock {Universal Value Function Approximators}.
+\newblock In \emph{ICML}, 2015.
+
+\bibitem[Schaul et~al.(2016)Schaul, Quan, Antonoglou, and
+  Silver]{schaul2016prioritized}
+Tom Schaul, John Quan, Ioannis Antonoglou, and David Silver.
+\newblock {Prioritized Experience Replay}.
+\newblock In \emph{ICLR}, 2016.
+
+\bibitem[Schmidhuber(1991)]{schmidhuber1991possibility}
+J{\"u}rgen Schmidhuber.
+\newblock {A Possibility for Implementing Curiosity and Boredom in
+  Model-Building Neural Controllers}.
+\newblock In \emph{SAB}, 1991.
+
+\bibitem[Schmidhuber and Huber(1991)]{schmidhuber1991learning}
+J{\"u}rgen Schmidhuber and Rudolf Huber.
+\newblock {Learning to Generate Artificial Fovea Trajectories for Target
+  Detection}.
+\newblock \emph{IJNS}, 2\penalty0 (01n02):\penalty0 125--134, 1991.
+
+\bibitem[Schulman et~al.(2015{\natexlab{a}})Schulman, Heess, Weber, and
+  Abbeel]{schulman2015gradient}
+John Schulman, Nicolas Heess, Theophane Weber, and Pieter Abbeel.
+\newblock {Gradient Estimation using Stochastic Computation Graphs}.
+\newblock In \emph{NIPS}, 2015{\natexlab{a}}.
+
+\bibitem[Schulman et~al.(2015{\natexlab{b}})Schulman, Levine, Abbeel, Jordan,
+  and Moritz]{schulman2015trust}
+John Schulman, Sergey Levine, Pieter Abbeel, Michael Jordan, and Philipp
+  Moritz.
+\newblock {Trust Region Policy Optimization}.
+\newblock In \emph{ICML}, 2015{\natexlab{b}}.
+
+\bibitem[Schulman et~al.(2016)Schulman, Moritz, Levine, Jordan, and
+  Abbeel]{schulman2016high}
+John Schulman, Philipp Moritz, Sergey Levine, Michael Jordan, and Pieter
+  Abbeel.
+\newblock {High-Dimensional Continuous Control using Generalized Advantage
+  Estimation}.
+\newblock In \emph{ICLR}, 2016.
+
+\bibitem[Schulman et~al.(2017{\natexlab{a}})Schulman, Abbeel, and
+  Chen]{schulman2017equivalence}
+John Schulman, Pieter Abbeel, and Xi~Chen.
+\newblock {Equivalence Between Policy Gradients and Soft Q-Learning}.
+\newblock \emph{arXiv:1704.06440}, 2017{\natexlab{a}}.
+
+\bibitem[Schulman et~al.(2017{\natexlab{b}})Schulman, Wolski, Dhariwal,
+  Radford, and Klimov]{schulman2017proximal}
+John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov.
+\newblock {Proximal Policy Optimization Algorithms}.
+\newblock \emph{arXiv:1707.06347}, 2017{\natexlab{b}}.
+
+\bibitem[Shahriari et~al.(2016)Shahriari, Swersky, Wang, Adams, and
+  de~Freitas]{shahriari2016taking}
+Bobak Shahriari, Kevin Swersky, Ziyu Wang, Ryan~P Adams, and Nando de~Freitas.
+\newblock {Taking the Human out of the Loop: A Review of Bayesian
+  Optimization}.
+\newblock \emph{Proc. of the IEEE}, 104\penalty0 (1):\penalty0 148--175, 2016.
+
+\bibitem[Silver et~al.(2014)Silver, Lever, Heess, Degris, Wierstra, and
+  Riedmiller]{silver2014deterministic}
+David Silver, Guy Lever, Nicolas Heess, Thomas Degris, Daan Wierstra, and
+  Martin Riedmiller.
+\newblock {Deterministic Policy Gradient Algorithms}.
+\newblock In \emph{ICML}, 2014.
+
+\bibitem[Silver et~al.(2016)Silver, Huang, Maddison, Guez, Sifre, van~den
+  Driessche, Schrittwieser, Antonoglou, Panneershelvam, Lanctot,
+  et~al.]{silver2016mastering}
+David Silver, Aja Huang, Chris~J Maddison, Arthur Guez, Laurent Sifre, George
+  van~den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda
+  Panneershelvam, Marc Lanctot, et~al.
+\newblock {Mastering the Game of Go with Deep Neural Networks and Tree Search}.
+\newblock \emph{Nature}, 529\penalty0 (7587):\penalty0 484--489, 2016.
+
+\bibitem[Singh et~al.(2002)Singh, Litman, Kearns, and
+  Walker]{singh2002optimizing}
+Satinder Singh, Diane Litman, Michael Kearns, and Marilyn Walker.
+\newblock {Optimizing Dialogue Management with Reinforcement Learning:
+  Experiments with the NJFun System}.
+\newblock \emph{JAIR}, 16:\penalty0 105--133, 2002.
+
+\bibitem[Sorokin et~al.(2015)Sorokin, Seleznev, Pavlov, Fedorov, and
+  Ignateva]{sorokin2015deep}
+Ivan Sorokin, Alexey Seleznev, Mikhail Pavlov, Aleksandr Fedorov, and
+  Anastasiia Ignateva.
+\newblock {Deep Attention Recurrent Q-Network}.
+\newblock In \emph{NIPS Workshop on Deep Reinforcement Learning}, 2015.
+
+\bibitem[Stadie et~al.(2017)Stadie, Abbeel, and Sutskever]{stadie2017third}
+Bradley~C Stadie, Pieter Abbeel, and Ilya Sutskever.
+\newblock {Third Person Imitation Learning}.
+\newblock In \emph{ICLR}, 2017.
+
+\bibitem[Stadie et~al.(2015)Stadie, Levine, and
+  Abbeel]{stadie2015incentivizing}
+Bradly~C Stadie, Sergey Levine, and Pieter Abbeel.
+\newblock {Incentivizing Exploration in Reinforcement Learning with Deep
+  Predictive Models}.
+\newblock In \emph{NIPS Workshop on Deep Reinforcement Learning}, 2015.
+
+\bibitem[Strehl et~al.(2006)Strehl, Li, Wiewiora, Langford, and
+  Littman]{strehl2006pac}
+Alexander~L Strehl, Lihong Li, Eric Wiewiora, John Langford, and Michael~L
+  Littman.
+\newblock {PAC Model-Free Reinforcement Learning}.
+\newblock In \emph{ICML}, 2006.
+
+\bibitem[Sukhbaatar et~al.(2016)Sukhbaatar, Szlam, and
+  Fergus]{sukhbaatar2016learning}
+Sainbayar Sukhbaatar, Arthur Szlam, and Rob Fergus.
+\newblock {Learning Multiagent Communication with Backpropagation}.
+\newblock In \emph{NIPS}, 2016.
+
+\bibitem[Sutton and Barto(1998)]{sutton1998reinforcement}
+Richard~S Sutton and Andrew~G Barto.
+\newblock \emph{{Reinforcement Learning: An Introduction}}.
+\newblock MIT Press, 1998.
+
+\bibitem[Sutton et~al.(1999)Sutton, Precup, and Singh]{sutton1999between}
+Richard~S Sutton, Doina Precup, and Satinder Singh.
+\newblock {Between MDPs and Semi-MDPs: A Framework for Temporal Abstraction in
+  Reinforcement Learning}.
+\newblock \emph{Artificial Intelligence}, 112\penalty0 (1--2):\penalty0
+  181--211, 1999.
+
+\bibitem[Synnaeve et~al.(2016)Synnaeve, Nardelli, Auvolat, Chintala, Lacroix,
+  Lin, Richoux, and Usunier]{synnaeve2016torchcraft}
+Gabriel Synnaeve, Nantas Nardelli, Alex Auvolat, Soumith Chintala, Timoth{\'e}e
+  Lacroix, Zeming Lin, Florian Richoux, and Nicolas Usunier.
+\newblock {TorchCraft: A Library for Machine Learning Research on Real-Time
+  Strategy Games}.
+\newblock \emph{arXiv:1611.00625}, 2016.
+
+\bibitem[Tamar et~al.(2016)Tamar, Wu, Thomas, Levine, and
+  Abbeel]{tamar2016value}
+Aviv Tamar, Yi~Wu, Garrett Thomas, Sergey Levine, and Pieter Abbeel.
+\newblock {Value Iteration Networks}.
+\newblock In \emph{NIPS}, 2016.
+
+\bibitem[Tang et~al.(2017)Tang, Houthooft, Foote, Stooke, Chen, Duan, Schulman,
+  De~Turck, and Abbeel]{tang2017exploration}
+Haoran Tang, Rein Houthooft, Davis Foote, Adam Stooke, Xi~Chen, Yan Duan, John
+  Schulman, Filip De~Turck, and Pieter Abbeel.
+\newblock {\#Exploration: A Study of Count-Based Exploration for Deep
+  Reinforcement Learning}.
+\newblock In \emph{NIPS}, 2017.
+
+\bibitem[Teh et~al.(2017)Teh, Bapst, Czarnecki, Quan, Kirkpatrick, Hadsell,
+  Heess, and Pascanu]{teh2017distral}
+Yee~Whye Teh, Victor Bapst, Wojciech~Marian Czarnecki, John Quan, James
+  Kirkpatrick, Raia Hadsell, Nicolas Heess, and Razvan Pascanu.
+\newblock {Distral: Robust Multitask Reinforcement Learning}.
+\newblock In \emph{NIPS}, 2017.
+
+\bibitem[Tesauro(1995)]{tesauro1995temporal}
+Gerald Tesauro.
+\newblock {Temporal Difference Learning and TD-Gammon}.
+\newblock \emph{Communications of the ACM}, 38\penalty0 (3):\penalty0 58--68,
+  1995.
+
+\bibitem[Tesauro et~al.(2008)Tesauro, Das, Chan, Kephart, Levine, Rawson, and
+  Lefurgy]{tesauro2008managing}
+Gerald Tesauro, Rajarshi Das, Hoi Chan, Jeffrey Kephart, David Levine, Freeman
+  Rawson, and Charles Lefurgy.
+\newblock {Managing Power Consumption and Performance of Computing Systems
+  using Reinforcement Learning}.
+\newblock In \emph{NIPS}, 2008.
+
+\bibitem[Tessler et~al.(2017)Tessler, Givony, Zahavy, Mankowitz, and
+  Mannor]{tessler2017deep}
+Chen Tessler, Shahar Givony, Tom Zahavy, Daniel~J Mankowitz, and Shie Mannor.
+\newblock {A Deep Hierarchical Approach to Lifelong Learning in Minecraft}.
+\newblock In \emph{AAAI}, 2017.
+
+\bibitem[Todorov et~al.(2012)Todorov, Erez, and Tassa]{todorov2012mujoco}
+Emanuel Todorov, Tom Erez, and Yuval Tassa.
+\newblock {MuJoCo: A Physics Engine for Model-Based Control}.
+\newblock In \emph{IROS}, 2012.
+
+\bibitem[Tsitsiklis and Van~Roy(1997)]{tsitsiklis1997analysis}
+John~N Tsitsiklis and Benjamin Van~Roy.
+\newblock {Analysis of Temporal-Difference Learning with Function
+  Approximation}.
+\newblock In \emph{NIPS}, 1997.
+
+\bibitem[Tzeng et~al.(2016)Tzeng, Devin, Hoffman, Finn, Peng, Levine, Saenko,
+  and Darrell]{tzeng2016towards}
+Eric Tzeng, Coline Devin, Judy Hoffman, Chelsea Finn, Xingchao Peng, Sergey
+  Levine, Kate Saenko, and Trevor Darrell.
+\newblock {Towards Adapting Deep Visuomotor Representations from Simulated to
+  Real Environments}.
+\newblock In \emph{WAFR}, 2016.
+
+\bibitem[Usunier et~al.(2017)Usunier, Synnaeve, Lin, and
+  Chintala]{usunier2017episodic}
+Nicolas Usunier, Gabriel Synnaeve, Zeming Lin, and Soumith Chintala.
+\newblock {Episodic Exploration for Deep Deterministic Policies: An Application
+  to StarCraft Micromanagement Tasks}.
+\newblock In \emph{ICLR}, 2017.
+
+\bibitem[van Hasselt(2010)]{hasselt2010double}
+Hado van Hasselt.
+\newblock {Double Q-Learning}.
+\newblock In \emph{NIPS}, 2010.
+
+\bibitem[van Hasselt et~al.(2016)van Hasselt, Guez, and Silver]{van2016deep}
+Hado van Hasselt, Arthur Guez, and David Silver.
+\newblock {Deep Reinforcement Learning with Double Q-Learning}.
+\newblock In \emph{AAAI}, 2016.
+
+\bibitem[Vanseijen and Sutton(2015)]{vanseijen2015deeper}
+Harm Vanseijen and Rich Sutton.
+\newblock {A Deeper Look at Planning as Learning from Replay}.
+\newblock In \emph{ICML}, 2015.
+
+\bibitem[Vezhnevets et~al.(2016)Vezhnevets, Mnih, Osindero, Graves, Vinyals,
+  Agapiou, and Kavukcuoglu]{vezhnevets2016strategic}
+Alexander Vezhnevets, Volodymyr Mnih, Simon Osindero, Alex Graves, Oriol
+  Vinyals, John Agapiou, and Koray Kavukcuoglu.
+\newblock {Strategic Attentive Writer for Learning Macro-Actions}.
+\newblock In \emph{NIPS}, 2016.
+
+\bibitem[Vezhnevets et~al.(2017)Vezhnevets, Osindero, Schaul, Heess, Jaderberg,
+  Silver, and Kavukcuoglu]{vezhnevets2017feudal}
+Alexander~Sasha Vezhnevets, Simon Osindero, Tom Schaul, Nicolas Heess, Max
+  Jaderberg, David Silver, and Koray Kavukcuoglu.
+\newblock {FeUdal Networks for Hierarchical Reinforcement Learning}.
+\newblock In \emph{ICML}, 2017.
+
+\bibitem[Vinyals et~al.(2017)Vinyals, Ewalds, Bartunov, Georgiev, Vezhnevets,
+  Yeo, Makhzani, Kttler, Agapiou, Schrittwieser,
+  et~al.]{vinyals2017starcraft}
+Oriol Vinyals, Timo Ewalds, Sergey Bartunov, Petko Georgiev, Alexander~Sasha
+  Vezhnevets, Michelle Yeo, Alireza Makhzani, Heinrich K{\"u}ttler, John
+  Agapiou, Julian Schrittwieser, et~al.
+\newblock {StarCraft II: A New Challenge for Reinforcement Learning}.
+\newblock \emph{arXiv:1708.04782}, 2017.
+
+\bibitem[Wahlstr{\"o}m et~al.(2015{\natexlab{a}})Wahlstr{\"o}m, Sch{\"o}n, and
+  Deisenroth]{wahlstrom2015learning}
+Niklas Wahlstr{\"o}m, Thomas~B Sch{\"o}n, and Marc~P Deisenroth.
+\newblock {Learning Deep Dynamical Models from Image Pixels}.
+\newblock \emph{IFAC SYSID}, 48\penalty0 (28), 2015{\natexlab{a}}.
+
+\bibitem[Wahlstr{\"o}m et~al.(2015{\natexlab{b}})Wahlstr{\"o}m, Sch{\"o}n, and
+  Deisenroth]{wahlstrom2015pixels}
+Niklas Wahlstr{\"o}m, Thomas~B Sch{\"o}n, and Marc~P Deisenroth.
+\newblock {From Pixels to Torques: Policy Learning with Deep Dynamical Models}.
+\newblock In \emph{ICML Workshop on Deep Learning}, 2015{\natexlab{b}}.
+
+\bibitem[Wang et~al.(2017{\natexlab{a}})Wang, Kurth-Nelson, Tirumala, Soyer,
+  Leibo, Munos, Blundell, Kumaran, and Botvinick]{wang2017learning}
+Jane~X Wang, Zeb Kurth-Nelson, Dhruva Tirumala, Hubert Soyer, Joel~Z Leibo,
+  R{\'e}mi Munos, Charles Blundell, Dharshan Kumaran, and Matt Botvinick.
+\newblock {Learning to Reinforcement Learn}.
+\newblock In \emph{CogSci}, 2017{\natexlab{a}}.
+
+\bibitem[Wang et~al.(2016)Wang, de~Freitas, and Lanctot]{wang2016dueling}
+Ziyu Wang, Nando de~Freitas, and Marc Lanctot.
+\newblock {Dueling Network Architectures for Deep Reinforcement Learning}.
+\newblock In \emph{ICLR}, 2016.
+
+\bibitem[Wang et~al.(2017{\natexlab{b}})Wang, Bapst, Heess, Mnih, Munos,
+  Kavukcuoglu, and de~Freitas]{wang2017sample}
+Ziyu Wang, Victor Bapst, Nicolas Heess, Volodymyr Mnih, R{\'e}mi Munos, Koray
+  Kavukcuoglu, and Nando de~Freitas.
+\newblock {Sample Efficient Actor-Critic with Experience Replay}.
+\newblock In \emph{ICLR}, 2017{\natexlab{b}}.
+
+\bibitem[Watkins and Dayan(1992)]{watkins1992q}
+Christopher~JCH Watkins and Peter Dayan.
+\newblock {Q-Learning}.
+\newblock \emph{Machine Learning}, 8\penalty0 (3-4):\penalty0 279--292, 1992.
+
+\bibitem[Watter et~al.(2015)Watter, Springenberg, Boedecker, and
+  Riedmiller]{watter2015embed}
+Manuel Watter, Jost Springenberg, Joschka Boedecker, and Martin Riedmiller.
+\newblock {Embed to Control: A Locally Linear Latent Dynamics Model for Control
+  from Raw Images}.
+\newblock In \emph{NIPS}, 2015.
+
+\bibitem[Weber et~al.(2017)Weber, Racani{\`e}re, Reichert, Buesing, Guez,
+  Rezende, Badia, Vinyals, Heess, Li, et~al.]{weber2017imagination}
+Th{\'e}ophane Weber, S{\'e}bastien Racani{\`e}re, David~P Reichert, Lars
+  Buesing, Arthur Guez, Danilo~Jimenez Rezende, Adria~Puigdom{\`e}nech Badia,
+  Oriol Vinyals, Nicolas Heess, Yujia Li, et~al.
+\newblock {Imagination-Augmented Agents for Deep Reinforcement Learning}.
+\newblock In \emph{NIPS}, 2017.
+
+\bibitem[Werbos(1974)]{werbos1974beyond}
+Paul~John Werbos.
+\newblock {Beyond Regression: New Tools for Prediction and Analysis in the
+  Behavioral Sciences}.
+\newblock Technical report, Harvard University, Applied Mathematics, 1974.
+
+\bibitem[Wierstra et~al.(2010)Wierstra, F{\"o}rster, Peters, and
+  Schmidhuber]{wierstra2010recurrent}
+Daan Wierstra, Alexander F{\"o}rster, Jan Peters, and J{\"u}rgen Schmidhuber.
+\newblock {Recurrent Policy Gradients}.
+\newblock \emph{Logic Journal of the IGPL}, 18\penalty0 (5):\penalty0 620--634,
+  2010.
+
+\bibitem[Williams(1992)]{williams1992simple}
+Ronald~J Williams.
+\newblock {Simple Statistical Gradient-Following Algorithms for Connectionist
+  Reinforcement Learning}.
+\newblock \emph{Machine Learning}, 8\penalty0 (3-4):\penalty0 229--256, 1992.
+
+\bibitem[Wulfmeier et~al.(2015)Wulfmeier, Ondruska, and
+  Posner]{wulfmeier2015maximum}
+Markus Wulfmeier, Peter Ondruska, and Ingmar Posner.
+\newblock {Maximum Entropy Deep Inverse Reinforcement Learning}.
+\newblock In \emph{NIPS Workshop on Deep Reinforcement Learning}, 2015.
+
+\bibitem[Xu et~al.(2015)Xu, Ba, Kiros, Cho, Courville, Salakhutdinov, Zemel,
+  and Bengio]{xu2015show}
+Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron~C Courville, Ruslan
+  Salakhutdinov, Richard~S Zemel, and Yoshua Bengio.
+\newblock {Show, Attend and Tell: Neural Image Caption Generation with Visual
+  Attention}.
+\newblock In \emph{ICML}, volume~14, 2015.
+
+\bibitem[Zhu et~al.(2017)Zhu, Mottaghi, Kolve, Lim, Gupta, Fei-Fei, and
+  Farhadi]{zhu2017target}
+Yuke Zhu, Roozbeh Mottaghi, Eric Kolve, Joseph~J Lim, Abhinav Gupta,
+  Li~Fei-Fei, and Ali Farhadi.
+\newblock {Target-Driven Visual Navigation in Indoor Scenes using Deep
+  Reinforcement Learning}.
+\newblock In \emph{ICRA}, 2017.
+
+\bibitem[Zoph and Le(2017)]{zoph2017neural}
+Barret Zoph and Quoc~V Le.
+\newblock {Neural Architecture Search with Reinforcement Learning}.
+\newblock In \emph{ICLR}, 2017.
+
+\end{thebibliography}
